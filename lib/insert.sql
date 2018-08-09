@@ -83,7 +83,7 @@ VALUES (1,
 (4,
  "Aon",
  "jix",
- "non"
+ "non",
  333,
  "Black");
 
