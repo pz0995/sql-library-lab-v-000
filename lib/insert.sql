@@ -22,34 +22,10 @@ INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Moo
 INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Green", "pirt", "kkk", 765, "cool");
 INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("JQ", "done", "shhy", 099, "hot");
 INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Aon", "jix", "non", 333, "Black");
-
-(
- "Pio",
- "nit",
- "bym",
- 332,
- "cool");
-
-(
- "Jart",
- "jaq",
- "ffdd",
- 0004,
- "hot");
-
-(
- "Lori",
- "pon",
- "ppp",
- 326,
- "hot");
-
-(
- "Blu",
- "lin",
- "pzzz",
- 8888,
- "mild");
+INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Pio", "nit", "bym", 332, "cool");
+INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Jart", "jaq", "ffdd", 0004, "hot");
+INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Lori", "pon", "ppp", 326,  "hot");
+INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Blu", "lin", "pzzz", 8888, "mild");
 
 
 INSERT INTO character_books (character_id, book_id)
