@@ -107,7 +107,7 @@ VALUES (
  "ppp",
  326,
  "hot");
- 
+
 (
  "Blu",
  "lin",
