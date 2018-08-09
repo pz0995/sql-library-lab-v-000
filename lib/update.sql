@@ -3,10 +3,10 @@
 -- WHERE  id = MAX(id) FROM characters
 -- LIMIT 1;
 --
-
-UPDATE Characters
-SET species = (
-  SELECT MAX(species)
-  FROM characters
-);
+-- 
+-- UPDATE Characters
+-- SET species = (
+--   SELECT MAX(species)
+--   FROM characters
+-- );
 -- WHERE product_id = 1;
