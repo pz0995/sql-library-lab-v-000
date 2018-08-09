@@ -3,7 +3,7 @@
 -- WHERE  id = MAX(id) FROM characters
 -- LIMIT 1;
 --
--- 
+--
 -- UPDATE Characters
 -- SET species = (
 --   SELECT MAX(species)

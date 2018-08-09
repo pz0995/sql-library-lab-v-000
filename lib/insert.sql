@@ -2,7 +2,7 @@ INSERT INTO series (id, title, author_id, subgenre_id)
 VALUES (1,
         'fantasyp',
         'authorp',
-        02);
+        '02');
 
 (2,
  "fantasyy",
