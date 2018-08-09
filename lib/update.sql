@@ -10,3 +10,6 @@
 --   FROM characters
 -- );
 -- WHERE product_id = 1;
+"UPDATE characters.Species
+SET characters.species='Martian'
+WHERE id=8;"
