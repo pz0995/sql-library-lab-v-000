@@ -10,49 +10,49 @@ VALUES (
  '09');
 
 
-INSERT INTO subgenres (id, name)
-VALUES (1,
+INSERT INTO subgenres (name)
+VALUES (
         'dark');
 
-(2,
+(
  'low');
 
 
-INSERT INTO authors (id, name)
-VALUES (1,
+INSERT INTO authors (name)
+VALUES (
         'author');
 
-(2,
+(
  'authoryy');
 
 
-INSERT INTO books (id, title, year, series_id)
-VALUES (1,
+INSERT INTO books (title, year, series_id)
+VALUES (
         "booktwo",
         1942,
         72);
 
-(2,
+(
  "booknine",
  2275,
  51);
 
-(3,
+(
  "fantbook",
  3122,
  09);
 
-(4,
+(
  "fantasy",
  4444,
  55);
 
-(5,
+(
  "disct",
  4575,
  41);
 
-(6,
+(
  "abook",
  2222,
  02);
