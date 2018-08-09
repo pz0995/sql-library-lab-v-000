@@ -28,67 +28,19 @@ INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Lor
 INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Blu", "lin", "pzzz", 8888, "mild");
 
 
-INSERT INTO character_books (character_id, book_id)
-VALUES (
-        1,
-        3);
-
-(
- 3,
- 3);
-
-(
- 5,
- 1);
-
-(
- 2,
- 1);
-
-(
- 7,
- 1);
-
-(
- 4,
- 3);
-
-(
- 3,
- 1);
-
-(
- 6,
- 1);
-
-(
- 7,
- 4);
-
-(
- 4,
- 1);
-
-(
- 8,
- 2);
-
-(
- 6,
- 1);
-
-(
- 8,
- 1);
-
-(
- 1,
- 1);
-
-(
- 5,
- 3);
-
-(
- 2,
- 3);
+INSERT INTO character_books (character_id, book_id) VALUES (1, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (3, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (5, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (2, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (7, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (4, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (3, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (6, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (7, 4);
+INSERT INTO character_books (character_id, book_id) VALUES (4, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (8, 2);
+INSERT INTO character_books (character_id, book_id) VALUES (6, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (8, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (1, 1);
+INSERT INTO character_books (character_id, book_id) VALUES (5, 3);
+INSERT INTO character_books (character_id, book_id) VALUES (2, 3);
