@@ -1,86 +1,27 @@
-INSERT INTO series (title, author_id, subgenre_id)
-VALUES (
-        'fantasyp',
-        'authorp',
-        '02');
-
-(
- 'fantasy',
- 'authorz',
- '09');
+INSERT INTO series (title, author_id, subgenre_id) VALUES ('fantasyp', 'authorp', '02');
+INSERT INTO series (title, author_id, subgenre_id) VALUES ('fantasy', 'authorz', '09');
 
 
-INSERT INTO subgenres (name)
-VALUES ('dark');
-('low');
+INSERT INTO subgenres (name) VALUES ('dark');
+INSERT INTO subgenres (name) VALUES ('low');
 
 
-INSERT INTO authors (name)
-VALUES ('author');
-
-('authoryy');
+INSERT INTO authors (name) VALUES ('author');
+INSERT INTO authors (name) VALUES ('authoryy');
 
 
-INSERT INTO books (title, year, series_id)
-VALUES (
-        "booktwo",
-        1942,
-        72);
-
-(
- "booknine",
- 2275,
- 51);
-
-(
- "fantbook",
- 3122,
- 09);
-
-(
- "fantasy",
- 4444,
- 55);
-
-(
- "disct",
- 4575,
- 41);
-
-(
- "abook",
- 2222,
- 02);
+INSERT INTO books (title, year, series_id) VALUES ("booktwo", 1942, 72);
+INSERT INTO books (title, year, series_id) VALUES ("booknine", 2275, 51);
+INSERT INTO books (title, year, series_id) VALUES ("fantbook",  3122, 09);
+INSERT INTO books (title, year, series_id) VALUES ("fantasy", 4444,  55);
+INSERT INTO books (title, year, series_id) VALUES ("disct", 4575, 41);
+INSERT INTO books (title, year, series_id) VALUES ("abook",  2222, 02);
 
 
-INSERT INTO characters (name, motto, species, series_id, author_id)
-VALUES (
-        "Moon",
-        "mot",
-        "xort",
-        223,
-        "hot");
-
-(
- "Green",
- "pirt",
- "kkk",
- 765,
- "cool");
-
-(
- "JQ",
- "done",
- "shhy",
- 099,
- "hot");
-
-(
- "Aon",
- "jix",
- "non",
- 333,
- "Black");
+INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Moon", "mot", "xort", 223, "hot");
+INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Green", "pirt", "kkk", 765, "cool");
+INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("JQ", "done", "shhy", 099, "hot");
+INSERT INTO characters (name, motto, species, series_id, author_id) VALUES ("Aon", "jix", "non", 333, "Black");
 
 (
  "Pio",
