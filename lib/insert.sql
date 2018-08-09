@@ -11,7 +11,7 @@ VALUES (1,
 
 
 INSERT INTO subgenres (id, name)
-VALUES ('1',
+VALUES (1,
         'dark');
 
 (2,
