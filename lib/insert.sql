@@ -1,13 +1,13 @@
-INSERT INTO series (id, title, author_id, subgenre_id)
-VALUES (1,
-        'fantasyp',
-        'authorp',
-        '02');
-
-(2,
- 'fantasy',
- 'authorz',
- '09');
+-- INSERT INTO series (id, title, author_id, subgenre_id)
+-- VALUES (1,
+--         'fantasyp',
+--         'authorp',
+--         '02');
+-- 
+-- (2,
+--  'fantasy',
+--  'authorz',
+--  '09');
 
 
 INSERT INTO subgenres (id, name)
