@@ -58,57 +58,57 @@ VALUES (
  02);
 
 
-INSERT INTO characters (id, name, motto, species, series_id, author_id)
-VALUES (1,
+INSERT INTO characters (name, motto, species, series_id, author_id)
+VALUES (
         "Moon",
         "mot",
         "xort",
         223,
         "hot");
 
-(2,
+(
  "Green",
  "pirt",
  "kkk",
  765,
  "cool");
 
-(3,
+(
  "JQ",
  "done",
  "shhy",
  099,
  "hot");
 
-(4,
+(
  "Aon",
  "jix",
  "non",
  333,
  "Black");
 
-(5,
+(
  "Pio",
  "nit",
  "bym",
  332,
  "cool");
 
-(6,
+(
  "Jart",
  "jaq",
  "ffdd",
  0004,
  "hot");
 
-(7,
+(
  "Lori",
  "pon",
  "ppp",
  326,
  "hot");
-
-(8,
+ 
+(
  "Blu",
  "lin",
  "pzzz",
@@ -116,67 +116,67 @@ VALUES (1,
  "mild");
 
 
-INSERT INTO character_books (id, character_id, book_id)
-VALUES (1,
+INSERT INTO character_books (character_id, book_id)
+VALUES (
         1,
         3);
 
-(2,
+(
  3,
  3);
 
-(3,
+(
  5,
  1);
 
-(4,
+(
  2,
  1);
 
-(5,
+(
  7,
  1);
 
-(6,
+(
  4,
  3);
 
-(7,
+(
  3,
  1);
 
-(8,
+(
  6,
  1);
 
-(9,
+(
  7,
  4);
 
-(10,
+(
  4,
  1);
 
-(11,
+(
  8,
  2);
 
-(12,
+(
  6,
  1);
 
-(13,
+(
  8,
  1);
 
-(14,
+(
  1,
  1);
 
-(15,
+(
  5,
  3);
 
-(16,
+(
  2,
  3);
