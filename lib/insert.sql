@@ -1,10 +1,10 @@
-INSERT INTO series (id, title, author_id, subgenre_id)
-VALUES (1,
+INSERT INTO series (title, author_id, subgenre_id)
+VALUES (
         'fantasyp',
         'authorp',
         '02');
 
-(2,
+(
  'fantasy',
  'authorz',
  '09');
