@@ -11,19 +11,14 @@ VALUES (
 
 
 INSERT INTO subgenres (name)
-VALUES (
-        'dark');
-
-(
- 'low');
+VALUES ('dark');
+('low');
 
 
 INSERT INTO authors (name)
-VALUES (
-        'author');
+VALUES ('author');
 
-(
- 'authoryy');
+('authoryy');
 
 
 INSERT INTO books (title, year, series_id)
