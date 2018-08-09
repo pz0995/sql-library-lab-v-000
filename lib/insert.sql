@@ -5,9 +5,9 @@ VALUES (1,
         '02');
 
 (2,
- "fantasyy",
- "authorz",
- 09);
+ 'fantasy',
+ 'authorz',
+ '09');
 
 
 INSERT INTO subgenres (id, name)
